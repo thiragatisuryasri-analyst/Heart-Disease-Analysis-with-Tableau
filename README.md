@@ -2,6 +2,7 @@
 
 A data analytics project that explores key lifestyle and clinical indicators of heart disease and presents the findings through interactive Tableau dashboards and stories, embedded in a lightweight Flask web application.
 
+## demo Link : https://drive.google.com/file/d/1udTTlsVybba_fxRgQDEcwi4NYnJviWrN/view?usp=sharing
 ## Overview
 
 Heart disease remains one of the leading causes of death worldwide, and many of its risk factors — smoking, physical inactivity, poor sleep, BMI, diabetes, and more — are observable in everyday health data. This project analyzes a patient-level health survey dataset to uncover patterns and relationships between these indicators and the presence of heart disease, then communicates the insights through visual dashboards rather than a predictive model.
